@@ -3,7 +3,7 @@
 <html class="js touchevents csstransforms supports csstransforms3d csstransitions preserve3d passiveeventlisteners" lang="en-US"><head>
   
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" condtent="width=device-width, initial-scale=1.0">
 <link rel="pingback" href="http://www.syntorial.com/xmlrpc.php">
 <title>The Ultimate Synthesizer Tutorial</title>
 <link rel="alternate" hreflang="en" href="https://www.syntorial.com">
