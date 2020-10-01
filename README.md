@@ -9,7 +9,7 @@
 <link rel="alternate" hreflang="en" href="https://www.syntorial.com">
 <link rel="alternate" hreflang="es" href="https://www.syntorial.com/es/">
 
-<!-- All In One SEO Pack 3.7.0ob_start_detected [-1,-1] -->
+<!-- All In One SEO Pack 3.7.0ob_start_detedcted [-1,-1] -->
 <meta name="description" content="Syntorial is more than just another synth tutorial. It's video game-like training software, that will teach you how to program synth patches by ear.">
 
 
